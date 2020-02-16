@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 testestes
 coba tambah baris baru
 kita tambah baris baru di master
+=======
+ini branch workshop1 aku coba tambahin kata-kata
+>>>>>>> workshop1
